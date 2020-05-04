@@ -26,7 +26,8 @@ Syntax highlighted code block
 ### PRESENTATION VIDEO
 
 ### TEAM MEMBERS
-#Weiming Long
+## Weiming Long
+# 12345
 ![image](images/Weiming.jpg)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
