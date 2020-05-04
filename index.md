@@ -26,8 +26,9 @@ Syntax highlighted code block
 ## PRESENTATION VIDEO
 
 ## TEAM MEMBERS
-- Weiming Long
+- Weiming Long @weiminglong
 ![image](images/Weiming.jpg)
+*I am a Senior at GWU majoring in Computer Science and minoring in Business Administration.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
