@@ -3,7 +3,8 @@
 This is the project website of our Senior Design project-QA Classifier. This project was accomplished by three Computer Science major students at the George Washington University.
 
 ## PRESENTATION VIDEO
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3rE-v0nnbHk/0.jpg)](https://www.youtube.com/watch?v=3rE-v0nnbHk)
+
+<video src="video.mp4" width="320" height="200" controls preload></video>
 
 ## TEAM MEMBERS
 - Weiming Long
