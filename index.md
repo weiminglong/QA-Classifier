@@ -9,8 +9,9 @@ This is the project website of our Senior Design project-QA Classifier. This pro
 {% include youtubePlayer.html id=page.youtubeId %}
 
 ## TEAM MEMBERS
+### Weiming Long
 ![image](images/Weiming.jpg)
-- Weiming Long
+
 - I am a Senior at GWU majoring in Computer Science and minoring in Business Administration. I am from Shenzhen, China
 
 ### 1
