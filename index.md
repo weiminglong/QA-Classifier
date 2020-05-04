@@ -23,7 +23,10 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+### PRESENTATION VIDEO
 
+### TEAM MEMBERS
+#Weiming Long
 ![image](images/Weiming.jpg)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
