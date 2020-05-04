@@ -1,7 +1,6 @@
 ---
 youtubeId: ZORzsubQA_M
 ---
-
 ## Welcome
 
 This is the project website of our Senior Design project-QA Classifier. This project was accomplished by three Computer Science major students at the George Washington University.
