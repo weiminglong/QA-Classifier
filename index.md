@@ -1,6 +1,6 @@
 ## Welcome
 
-This is the project website of our Senior Design project-QA Classifier. We are three Computer Science students at the George Washington University.
+This is the project website of our Senior Design project-QA Classifier. This project was accomplished by three Computer Science major students at the George Washington University.
 
 ### Markdown
 
