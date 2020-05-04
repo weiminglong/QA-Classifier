@@ -2,33 +2,13 @@
 
 This is the project website of our Senior Design project-QA Classifier. This project was accomplished by three Computer Science major students at the George Washington University.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 ## PRESENTATION VIDEO
+[link](https://www.youtube.com/watch?v=3rE-v0nnbHk)
 
 ## TEAM MEMBERS
 - Weiming Long
 ![image](images/Weiming.jpg)
-* I am a Senior at GWU majoring in Computer Science and minoring in Business Administration. I 
+* I am a Senior at GWU majoring in Computer Science and minoring in Business Administration. I am from Shenzhen, China
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
