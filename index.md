@@ -3,10 +3,7 @@
 This is the project website of our Senior Design project-QA Classifier. This project was accomplished by three Computer Science major students at the George Washington University.
 
 ## PRESENTATION VIDEO
----
-youtubeId: ZORzsubQA_M
----
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include youtubePlayer.html id=ZORzsubQA_M %}
 
 ## TEAM MEMBERS
 - Weiming Long
