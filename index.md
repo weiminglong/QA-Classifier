@@ -26,7 +26,7 @@ Syntax highlighted code block
 ## PRESENTATION VIDEO
 
 ## TEAM MEMBERS
-- Weiming Long @weiminglong
+- Weiming Long @ weiminglong
 ![image](images/Weiming.jpg)
 * I am a Senior at GWU majoring in Computer Science and minoring in Business Administration.
 
