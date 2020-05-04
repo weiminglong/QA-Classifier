@@ -4,6 +4,7 @@ This is the project website of our Senior Design project-QA Classifier. This pro
 
 ## PRESENTATION VIDEO
 [link](https://www.youtube.com/watch?v=3rE-v0nnbHk)
+{% include youtube.html id=3rE-v0nnbHk %}
 
 ## TEAM MEMBERS
 - Weiming Long
