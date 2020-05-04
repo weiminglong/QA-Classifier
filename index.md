@@ -28,7 +28,7 @@ Syntax highlighted code block
 ## TEAM MEMBERS
 - Weiming Long @weiminglong
 ![image](images/Weiming.jpg)
-*I am a Senior at GWU majoring in Computer Science and minoring in Business Administration.
+* I am a Senior at GWU majoring in Computer Science and minoring in Business Administration.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
