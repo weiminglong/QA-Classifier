@@ -15,11 +15,11 @@ This is the project website of our Senior Design project-QA Classifier. This pro
 
 ### 1
 - 1
-![image]()
+
 
 ### 1
 - 1
-![image]()
+
 
 ## FILES
 - Final Report
