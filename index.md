@@ -24,4 +24,6 @@ This is the project website of our Senior Design project-QA Classifier. This pro
 
 ## FILES
 - Final Report
+[link](files/Design HW1.pdf)
+- [link](files/Target Audiences.docx)
 
