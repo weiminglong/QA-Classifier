@@ -37,5 +37,5 @@ This is the project website of our Senior Design project-QA Classifier. This pro
 
 [Writing 3](files/Design-HW1.pdf)
 
-[Final Report]()
+[Final Report](files/Final-Report.pdf)
 
