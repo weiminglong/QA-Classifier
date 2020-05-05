@@ -21,8 +21,10 @@ This is the project website of our Senior Design project-QA Classifier. This pro
 
 - I am a senior majoring with my Bachelor of science in Computer Science at GWU. I have developed a great interest for Machine Learning while working on this senior design project as well as the Machine Learning course that I just completed. In graduate school, I plan on taking more Machine learning and AI courses. I love musique. My biggest dream is to own a business. 
 
-### 1
-- 1
+### Rachell Kim
+![image](images/Rachell.jpg)
+
+- 
 
 
 ### 1
