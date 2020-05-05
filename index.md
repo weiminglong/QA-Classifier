@@ -14,6 +14,13 @@ This is the project website of our Senior Design project-QA Classifier. This pro
 
 - I am a Senior at GWU majoring in Computer Science and minoring in Business Administration. My hometown is Shenzhen, China, where my interests in technology started. I am interested in data analytics which might be the field that I'll be stuying in the graduate school. I love travelling and it's always exciting for me to explore new places.
 
+
+
+### Larissa Djoufack Basso
+![image](images/Screen Shot 2020-05-04 at 20.18.42.png)
+
+- I am a senior majoring with my Bachelor of science in Computer Science at GWU. I have developed a great interest for Machine Learning while working on this senior design project as well as the Machine Learning course that I just completed. In graduate school, I plan on taking more Machine learning and AI courses. I love musique. My biggest dream is to own a business. 
+
 ### 1
 - 1
 
