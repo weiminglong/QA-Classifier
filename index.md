@@ -12,9 +12,7 @@ This is the project website of our Senior Design project-QA Classifier. This pro
 ### Weiming Long
 ![image](images/Weiming.jpg)
 
-- I am a Senior at GWU majoring in Computer Science and minoring in Business Administration. My hometown is Shenzhen, China, where my interests in technology started. I am interested in data analytics which might be the field that I'll be stuying in the graduate school. I love travelling and it's always exciting for me to explore new places.
-
-
+- I am a senior at GWU majoring in Computer Science and minoring in Business Administration. My hometown is Shenzhen, China, where my interests in technology started. I am interested in data analytics which might be the field that I'll be stuying in the graduate school. I love traveling and it's always exciting for me to explore new places.
 
 ### Larissa Djoufack Basso
 ![image](images/larissa.png)
@@ -24,11 +22,7 @@ This is the project website of our Senior Design project-QA Classifier. This pro
 ### Rachell Kim
 ![image](images/Rachell.JPG)
 
-- 
-
-
-### 1
-- 1
+- I am a senior pursuing a B.S. in Computer Science at GWU. My interests include systems programming, human-computer interaction, augmented and virtual reality, machine learning, and space technology. In my free time, I enjoy painting, playing music, and traveling.
 
 
 ## FILES
