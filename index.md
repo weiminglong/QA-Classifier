@@ -25,8 +25,8 @@ This is the project website of our Senior Design project-QA Classifier. This pro
 ## FILES
 
 [Design HW1](https://weiminglong.github.io/QA-Classifier/files/Design-HW1.pdf)
--[Design HW2](https://weiminglong.github.io/QA-Classifier/files/Design-HW2.pdf)
--[Target Audience](https://weiminglong.github.io/QA-Classifier/files/Target-Audience.docx)
--[Writing 2](https://weiminglong.github.io/QA-Classifier/files/Team-11-Writing-2.docx)
--[Writing 3](https://weiminglong.github.io/QA-Classifier/files/Team-11-Writing-3.docx)
+[Design HW2](https://weiminglong.github.io/QA-Classifier/files/Design-HW2.pdf)
+[Target Audience](https://weiminglong.github.io/QA-Classifier/files/Target-Audience.docx)
+[Writing 2](https://weiminglong.github.io/QA-Classifier/files/Team-11-Writing-2.docx)
+[Writing 3](https://weiminglong.github.io/QA-Classifier/files/Team-11-Writing-3.docx)
 
