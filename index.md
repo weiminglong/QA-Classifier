@@ -17,7 +17,7 @@ This is the project website of our Senior Design project-QA Classifier. This pro
 
 
 ### Larissa Djoufack Basso
-![image](images/Screen Shot 2020-05-04 at 20.18.42.png)
+![image](images/larissa.png)
 
 - I am a senior majoring with my Bachelor of science in Computer Science at GWU. I have developed a great interest for Machine Learning while working on this senior design project as well as the Machine Learning course that I just completed. In graduate school, I plan on taking more Machine learning and AI courses. I love musique. My biggest dream is to own a business. 
 
