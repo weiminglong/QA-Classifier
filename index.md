@@ -26,5 +26,5 @@ This is the project website of our Senior Design project-QA Classifier. This pro
 - Final Report
 [link](files/Design HW1.pdf)
 - [link](files/Target Audiences.docx)
-[doc](https://weiminglong.github.io/QA-Classifier/files/Design\HW1.pdf)
+[doc](https://weiminglong.github.io/QA-Classifier/files/Design HW1.pdf)
 
